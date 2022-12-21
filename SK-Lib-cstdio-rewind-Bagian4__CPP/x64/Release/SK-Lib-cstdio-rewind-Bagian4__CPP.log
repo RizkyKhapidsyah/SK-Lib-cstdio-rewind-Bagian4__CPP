@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\Documents\#LATIHAN\Pemrograman\C++\#Download\SK-Lib-cstdio-rewind-Bagian4__CPP\SK-Lib-cstdio-rewind-Bagian4__CPP\Source.cpp(25,69): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Documents\#LATIHAN\Pemrograman\C++\#Download\SK-Lib-cstdio-rewind-Bagian4__CPP\SK-Lib-cstdio-rewind-Bagian4__CPP\Source.cpp(25,69): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+D:\Documents\#LATIHAN\Pemrograman\C++\#Download\SK-Lib-cstdio-rewind-Bagian4__CPP\SK-Lib-cstdio-rewind-Bagian4__CPP\Source.cpp(31,69): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Documents\#LATIHAN\Pemrograman\C++\#Download\SK-Lib-cstdio-rewind-Bagian4__CPP\SK-Lib-cstdio-rewind-Bagian4__CPP\Source.cpp(31,69): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SK-Lib-cstdio-rewind-Bagian4__CPP.vcxproj -> D:\Documents\#LATIHAN\Pemrograman\C++\#Download\SK-Lib-cstdio-rewind-Bagian4__CPP\x64\Release\SK-Lib-cstdio-rewind-Bagian4__CPP.exe
